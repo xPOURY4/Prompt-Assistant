@@ -142,7 +142,6 @@ We welcome contributions! This repository is for **showcase and documentation on
 
 - [📖 User Guide](docs/user-guide.md)
 - [🔧 API Integration](docs/api-integration.md)
-- [🎨 Customization](docs/customization.md)
 - [❓ FAQ](docs/faq.md)
 - [🆘 Troubleshooting](docs/troubleshooting.md)
 
